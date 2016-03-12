@@ -1,0 +1,5 @@
+﻿  DanielsGGFForm.cpp
+DanielsGGFForm.cpp(8): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  DanielsGGFForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  DanielsGGF.vcxproj -> C:\Users\Daniel-PC\documents\visual studio 2015\Projects\DanielsGGF\Debug\DanielsGGF.exe
+  DanielsGGF.vcxproj -> C:\Users\Daniel-PC\documents\visual studio 2015\Projects\DanielsGGF\Debug\DanielsGGF.pdb (Partial PDB)
